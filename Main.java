@@ -4,5 +4,6 @@ class Main
 	{
 		System.out.println("Name!");
 		System.out.println("This is my first sample.");
+		System.out.println("Weh");
 	}
 }
